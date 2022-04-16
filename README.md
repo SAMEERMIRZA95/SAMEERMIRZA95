@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @SAMEERMIRZA95
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @SAMEER MIRZA
+- 👀 I’m interested in SQL
+- 🌱 I’m currently learning Oracle Database Administration
+- 💞️ I’m looking to collaborate on SQL Projects
+- 📫 Reach me through sameerg.baig@gmail.com
 
 <!---
 SAMEERMIRZA95/SAMEERMIRZA95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
